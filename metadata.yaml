@@ -1,0 +1,29 @@
+_repo: The-Dixie-Druggist-May-1913-A-Monthly-Publication-Issued-to-the-Retail-Drug-Trade-of-the-Sout__52969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2016-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drugstores -- Southern States -- Periodicals'
+- !lcc 'RS'
+- !lcsh 'Pharmaceutical industry -- Periodicals'
+- GITenberg
+title: 'The Dixie Druggist, May, 1913
+
+  A Monthly Publication Issued to the Retail Drug Trade of the South'
+url: http://www.gutenberg.org/ebooks/52969
